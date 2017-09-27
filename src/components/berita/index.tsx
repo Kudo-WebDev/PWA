@@ -1,2 +1,2 @@
-export * from './PageBerita'
+export * from './pageBerita'
 export * from './notification'
