@@ -1,5 +1,4 @@
-# FE KMAW
-Summary steps:
+# Summary steps:
 
 - npm install
 - npm start (webpack-dev-server)
